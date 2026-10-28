@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Este es mi primer commit
+Este segundo cambio de momento sera sin push
 
 <!--
 **pepelandete/pepelandete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
